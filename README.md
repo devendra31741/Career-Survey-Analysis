@@ -1,4 +1,4 @@
-<h1>CAREER SURVRY ANALYSIS</h1>
+<h1>CAREER SURVEY ANALYSIS</h1>
 <h3>Tools used : POWER BI, DAX, MEASURE, COLUMN  and Excel </h3>
 <br/>
 <b>The objective of this project is to find out which is most popular job, its basic salary and which skills are most popular in the job.</b>
